@@ -1,0 +1,13 @@
+# Dati personali e di lavoro: non vanno in rete
+music_catalog.db*
+music_catalog.csv
+PROSSIMI-PASSI.md
+
+# Piani di migrazione generati (contengono percorsi delle macchine reali)
+piano*.sh
+
+# Generici
+__pycache__/
+*.log
+*.bak*
+.DS_Store
